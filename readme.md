@@ -1,6 +1,8 @@
 
-https://localhost:44301/health
+Start: `dotnet run`
 
-https://localhost:44301/hc
+https://localhost:PORT/health
 
-https://localhost:44301/hc-ui
+https://localhost:PORT/hc
+
+https://localhost:PORT/hc-ui
